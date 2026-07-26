@@ -1,6 +1,27 @@
 # Sistema de Chamadas
 
-Aplicacao para cadastrar disciplinas e alunos, vincular alunos as materias e registrar chamadas.
+## Sobre o projeto
+
+Este projeto consiste em um sistema web para gestão acadêmica, desenvolvido com o objetivo de facilitar o cadastro de matérias, alunos, vinculação entre esses cadastros e o registro de chamadas. A aplicação foi criada para oferecer uma solução prática, organizada e de fácil utilização, permitindo que os usuários realizem operações essenciais de forma rápida e centralizada.
+
+A estrutura do sistema foi organizada em frontend e backend, garantindo uma separação clara entre a interface de interação e a lógica de negócio. O backend é responsável pelo processamento dos dados, validação das informações e integração com o banco de dados, enquanto o frontend disponibiliza uma interface intuitiva para o usuário final.
+
+### Funcionalidades principais
+
+- Cadastro de matérias
+- Cadastro de alunos
+- Vinculação de alunos às matérias
+- Registro e acompanhamento de chamadas
+
+### Tecnologias e ferramentas utilizadas
+
+- Linguagem principal: JavaScript
+- Backend: Node.js
+- Frontend: interface web com Vite
+- Banco de dados: MySQL
+- Versionamento: Git/GitHub
+
+O projeto foi desenvolvido com foco em usabilidade, organização e manutenção, sendo uma solução adequada para ambientes acadêmicos que precisam controlar presença e relacionamento entre alunos e disciplinas de maneira simples e eficiente.
 
 ## Executar localmente
 
