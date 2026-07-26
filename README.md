@@ -1,6 +1,6 @@
 # Sistema de Chamadas
 
-Aplicacao para cadastrar materias e alunos, vincular alunos as materias e registrar chamadas.
+Aplicacao para cadastrar disciplinas e alunos, vincular alunos as materias e registrar chamadas.
 
 ## Executar localmente
 
